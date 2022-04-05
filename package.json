@@ -1,15 +1,15 @@
 {
-  "name": "backend",
+  "name": "graphql-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "API GraphQL desenvolvida em Node.js",
+  "author": "Luiz Oliveira <luiiz.silverio@gmail.com>",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "tsnd --respawn --transpile-only index.ts"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "apollo-server": "^3.6.7",
     "class-validator": "^0.13.2",
