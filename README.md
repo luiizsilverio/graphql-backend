@@ -1,4 +1,4 @@
-# GRAPHQL - Backend
+# GRAPHQL (Backend)
 
 ## Conteúdo
 * [Sobre a Aplicação](#sobre-a-aplicação)
@@ -23,11 +23,11 @@ Desenvolvido durante o [Fundamentos do GraphQL na Prática](https://www.youtube.
 # Baixe o repositório com git clone e entre na pasta do projeto.
 $ git clone https://github.com/luiizsilverio/graphql-backend.git
 
-# Execute yarn para instalar as dependências (ou npm install)
-$ yarn
+# Execute npm install para instalar as dependências
+$ npm install
 
 # Para iniciar a aplicação
-$ yarn dev
+$ npm run dev
 ```
 
 ## :balance_scale: Licença
